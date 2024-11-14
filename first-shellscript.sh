@@ -11,11 +11,3 @@ ls
 
 #
 pwd
-
-#sudo apt update -y
-
-#Create the directory
-mkdir junedali
-
-Delete the directory.
-sudo rm -f junedali
