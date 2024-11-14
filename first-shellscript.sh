@@ -9,4 +9,4 @@ echo "This is my first shell script"
 ls -ltr
 pwd
 
-apt update -y
+sudo apt update -y
